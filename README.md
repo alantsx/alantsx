@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome to my GitHub 👋
 
 <!--
 **alantsx/alantsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
