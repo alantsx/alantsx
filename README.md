@@ -14,7 +14,7 @@ My name is Alan Fabricio. I'm 28 and full-stack developer at Vivo-Telefonica.
 
 Currently I've been studying Java, TypeScript and React.
 
-## 👦🏽🏼 About me 
+## 👦🏽 About me 
 - 💻 Full-Stack Developer focused in Java.
 - 🛠 Techs: Java 8, JJUnit, Mockito, Java EE.
 - 📚 Studying: Typescript, React, Unit testing
