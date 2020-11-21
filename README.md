@@ -9,7 +9,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alantsx/)](https://www.linkedin.com/in/alantsx/)
 
 Hello there,
-My name is Alan Fabricio. I'm 28 and full-stack developer at Vivo-Telefonica. Currently I've been studying Java, TypeScript and React.
+
+My name is Alan Fabricio. I'm 28 and full-stack developer at Vivo-Telefonica. 
+
+Currently I've been studying Java, TypeScript and React.
 
 <!--
 **alantsx/alantsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
