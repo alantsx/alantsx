@@ -14,17 +14,15 @@ My name is Alan Fabricio. I'm 28 and full-stack developer at Vivo-Telefonica.
 
 Currently I've been studying Java, TypeScript and React.
 
-<!--
-**alantsx/alantsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👦🏽🏼 About me 
+- 💻 Full-Stack Developer focused in Java.
+- 🛠 Techs: Java 8, JJUnit, Mockito, Java EE.
+- 📚 Studying: Typescript, React, Unit testing
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚛️ Best Projects
+- TypeScript/React/Node.JS
+    - [Ecoleta App](https://github.com/alantsx/Ecoleta-app)
+    - [TypeScript Pokedex](https://github.com/alantsx/TypeScript-Pokedex)
+    
+- HTML/CSS/JavaScript/PHP
+    - [Custom Course Picker](https://github.com/alantsx/Custom-Course-Picker)
