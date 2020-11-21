@@ -23,7 +23,6 @@ Currently I've been studying Java, TypeScript and React.
 - TypeScript/React/Node.JS
     - [Ecoleta App](https://github.com/alantsx/Ecoleta-app)
     - [TypeScript Pokedex](https://github.com/alantsx/TypeScript-Pokedex)
-    - [Netflix Copy](https://spotiflix.vercel.app/)
     
 - HTML/CSS/JavaScript/PHP
     - [Custom Course Picker](https://github.com/alantsx/Custom-Course-Picker)
