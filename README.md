@@ -1,6 +1,6 @@
 # Welcome to my GitHub 👋
 
-<img align="right" width="420" height="250" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 <!--
 **alantsx/alantsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
