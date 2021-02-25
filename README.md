@@ -10,7 +10,7 @@
 
 Hello there,
 
-My name is Alan Fabricio. I'm 28 and full-stack developer at Vivo-Telefonica. 
+My name is Alan Fabricio. I'm 29 and Java developer at Vivo-Telefonica. 
 
 Currently I've been studying Java, TypeScript and React.
 
