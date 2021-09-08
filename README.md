@@ -26,7 +26,8 @@ Currently I've been studying Java, TypeScript and React.
     
 - HTML/CSS/JavaScript/PHP
     - [Custom Course Picker](https://github.com/alantsx/Custom-Course-Picker)
-    - [forwardingWeekDays](https://github.com/alantsx/diaSemana)
+    - [Using Loops, Arrays and indexOf to calculate forwarding Days](https://github.com/alantsx/diaSemana)
  
-- Java/Spring REST
+- Java
     - [Spring Rest Introduction Course](https://github.com/alantsx/spring-rest-bootcamp)
+    - [Using Java Exceptions in a Quadratic Equation Calculator](https://github.com/alantsx/equacaoSegundoGrau)
