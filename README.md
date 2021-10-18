@@ -16,7 +16,7 @@ Currently I've been studying Java, TypeScript and React.
 
 ## 👦🏽 About me 
 - 💻 Full-Stack Developer focused in Java.
-- 🛠 Techs: Java 8, JUnit, Mockito, Java EE.
+- 🛠 Techs: Java 8, Node.JS, JUnit, Mockito, Java EE.
 - 📚 Studying: Typescript, React, Unit testing
 
 ## ⚛️ Best Projects
