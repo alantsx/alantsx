@@ -12,7 +12,8 @@ Hello there,
 
 My name is Alan Fabricio. I'm 29 and Java developer at Vivo-Telefonica. 
 
-Currently I've been studying Java, TypeScript and React.
+Currently I've been graduating in Computer Systems Analysis and post-graduating in Artificial Intelligence and Machine Learning.
+Studies and side projects 100% focused on Node.JS and JavaScript stack
 
 ## 👦🏽 About me 
 - 💻 Full-Stack Developer focused in Java.
