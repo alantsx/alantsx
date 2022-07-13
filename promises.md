@@ -252,7 +252,7 @@ runPromises()
 
 Acredito que a partir daqui cobrimos os principais tópicos acerca de Promises e Async/Await. Agora é só praticar!
 
-Agradecimentos ao meu techlead, Edgard Leal, que sempre me apoia em meus estudos e me incentiva a ser um profissional melhor. Adicionarei um Perguntas & Respostas como guia rápido que ele me enviou, que serviu de guia para este artigo.
+Agradecimentos ao meu techlead, [Edgard Leal](https://github.com/edgardleal), que sempre me apoia em meus estudos e me incentiva a ser um profissional melhor. Adicionarei um Perguntas & Respostas como guia rápido que ele me enviou, que serviu de guia para este artigo.
 
 Agradecimentos também ao pessoal do [Código Fonte TV](https://www.youtube.com/c/codigofontetv), que foi a base da explicação deste artigo.
 
