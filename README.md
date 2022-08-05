@@ -16,9 +16,8 @@ Currently I've been graduating in Computer Systems Analysis and post-graduating 
 Studies and side projects 100% focused on Node.JS and JavaScript stack
 
 ## 👦🏽 About me 
-- 💻 Full-Stack Developer focused in Java.
-- 🛠 Techs: Java 8, Node.JS, JUnit, Mockito, Java EE.
-- 📚 Studying: Typescript, React, Unit testing
+- 💻 Full-Stack Developer focused in JavaScript and TypeScript.
+- 🛠 Techs: TypeScript, Node.JS, AWS, MongoDB
 
 ## ⚛️ Best Projects
 - TypeScript/React/Node.JS
