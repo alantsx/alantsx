@@ -1,25 +1,30 @@
 # Welcome to my GitHub 👋
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-6441A4?style=for-the-badge&logo=Twitch&logoColor=white&link=https://www.twitch.tv/alantsx/)](https://www.twitch.tv/alantsx)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/alan.tsx/)](https://www.instagram.com/alan.tsx)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/alantsx/)](https://twitter.com/alantsx)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alanpfabricio@gmail.com)](mailto:alanpfabricio@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alantsx/)](https://www.linkedin.com/in/alantsx/)
 
 Hello there,
 
-My name is Alan Fabricio. I'm 30 and Back-end enginner at Arena
+My name is Alan Fabricio. I'm a software developer who loves engineering new systems and giving birth to cool software ideas.
 
-Currently I've been graduating in Computer Systems Analysis and post-graduating in Artificial Intelligence and Machine Learning.
-Studies and side projects 100% focused on Node.JS and JavaScript stack
+Also, I love sharing knowledge! Please checkout my [DevTo blog](https://dev.to/alanfabricio) posts 😃
+
+#### Recent DevTo articles
+
+| Title | Published On |
+| ----- | ------------ |
+| [Entendendo Callbacks no JavaScript](https://dev.to/alanfabricio/entendendo-callbacks-no-javascript-28e0) | 26, Oct 2022 |
+| [Introdução a Promises, Async / Await no JavaScript](https://dev.to/alanfabricio/introducao-a-promises-async-await-no-javascript-4pjm) | 20 Jul 2022 |
+| [Criando seu próprio Bot no Telegram + Deploy no Heroku](https://dev.to/alanfabricio/bottelegram-pt-1-criando-seu-proprio-bot-no-telegram-usando-nodejs-deploy-na-nuvem-via-heroku-4ig8) | 15 Jun 2020 |
 
 ## 👦🏽 About me 
-- 💻 Full-Stack Developer focused in JavaScript and TypeScript.
-- 🛠 Techs: TypeScript, Node.JS, AWS, MongoDB
+- 💻 Full-Stack Developer focused in JavaScript, TypeScript, Node.JS, NestJS, React, Tailwind CSS and Next.JS.
+- 🛠 Other techs I've worked previously: AWS, MongoDB, PostgresQL, Jest, Python, Java8
 
-## ⚛️ Best Projects
+## Most Recent Projects
+- NestJS: [Expense App](https://github.com/alantsx/expense-app)
+
+## ⚛️ Some of my published Projects
 - TypeScript/React/Node.JS
     - [Spacetime](https://github.com/alantsx/NLW-spacetime)
     - [Ecoleta App](https://github.com/alantsx/Ecoleta-app)
