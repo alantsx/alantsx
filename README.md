@@ -1,9 +1,7 @@
-_"A mind needs books like a sword needs a whetstone."_ — Tyrion Lannister
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alanpfabricio@gmail.com)](mailto:alanpfabricio@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alantsx/)](https://www.linkedin.com/in/alantsx/)
 
-Hello there,
+## Greetings!
 
 My name is Alan Fabricio. I'm a software developer who loves engineering new systems and giving birth to cool software ideas.
 
@@ -37,3 +35,5 @@ Also, I love sharing knowledge! Please checkout my [DevTo blog](https://dev.to/a
 - Java
     - [Spring Rest Introduction Course](https://github.com/alantsx/spring-rest-bootcamp)
     - [Using Java Exceptions in a Quadratic Equation Calculator](https://github.com/alantsx/equacaoSegundoGrau)
+
+_"A mind needs books like a sword needs a whetstone."_ — Tyrion Lannister
