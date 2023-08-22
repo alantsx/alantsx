@@ -1,4 +1,4 @@
-# Welcome to my GitHub 👋
+_"A mind needs books like a sword needs a whetstone."_ — Tyrion Lannister
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alanpfabricio@gmail.com)](mailto:alanpfabricio@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alantsx/)](https://www.linkedin.com/in/alantsx/)
