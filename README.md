@@ -26,10 +26,10 @@ Also, I love sharing knowledge! Please checkout my [DevTo blog](https://dev.to/a
     - Jest
     - Python, Java8
 
-## Most Recent Projects
-- NestJS: [Expense App](https://github.com/alantsx/expense-app)
+## 🐱 NestJS Projects
+- [Expense App](https://github.com/alantsx/expense-app)
 
-## ⚛️ Some of my published Projects
+## ⚛️ Other repos
 - TypeScript/React/Node.JS
     - [Spacetime](https://github.com/alantsx/NLW-spacetime)
     - [Ecoleta App](https://github.com/alantsx/Ecoleta-app)
