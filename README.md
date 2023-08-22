@@ -16,8 +16,15 @@ Also, I love sharing knowledge! Please checkout my [DevTo blog](https://dev.to/a
 | [Criando seu próprio Bot no Telegram + Deploy no Heroku](https://dev.to/alanfabricio/bottelegram-pt-1-criando-seu-proprio-bot-no-telegram-usando-nodejs-deploy-na-nuvem-via-heroku-4ig8) | 15 Jun 2020 |
 
 ## 👦🏽 About me 
-- 💻 Full-Stack Developer focused in JavaScript, TypeScript, Node.JS, NestJS, React, Tailwind CSS and Next.JS.
-- 🛠 Other techs I've worked previously: AWS, MongoDB, PostgresQL, Jest, Python, Java8
+- 💻 Full-Stack Developer focused in
+    - JavaScript, TypeScript
+    - Node.JS, NestJS
+    - React, Tailwind CSS and Next.JS.
+- 🛠 Other techs I've worked previously:
+    - AWS
+    - MongoDB, PostgresQL
+    - Jest
+    - Python, Java8
 
 ## Most Recent Projects
 - NestJS: [Expense App](https://github.com/alantsx/expense-app)
