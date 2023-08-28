@@ -42,5 +42,3 @@ Also, I love sharing knowledge! Please checkout my [DevTo blog](https://dev.to/a
 - Java
     - [Spring Rest Introduction Course](https://github.com/alantsx/spring-rest-bootcamp)
     - [Using Java Exceptions in a Quadratic Equation Calculator](https://github.com/alantsx/equacaoSegundoGrau)
-
-_"A mind needs books like a sword needs a whetstone."_ — Tyrion Lannister
