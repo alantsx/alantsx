@@ -3,7 +3,7 @@
 
 ## Greetings!
 
-My name is Alan Fabricio. I'm a software developer who loves engineering new systems and giving birth to cool software ideas.
+My name is Alan Fabricio. I'm a software developer who loves engineering new systems and creating cool software ideas.
 
 Also, I love sharing knowledge! Please checkout my [DevTo blog](https://dev.to/alanfabricio) posts 😃
 
